@@ -850,6 +850,6 @@ $RefreshReg$(_c, "FAQItem");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@fortawesome/free-solid-svg-icons":"5lkdy","@fortawesome/react-fontawesome":"clIT3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["kKPpn","1xC6H"], null, "parcelRequire1a02")
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@fortawesome/free-solid-svg-icons":"5lkdy","@fortawesome/react-fontawesome":"clIT3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["kKPpn","1xC6H"], null, "parcelRequire4c04")
 
 //# sourceMappingURL=Help.4706cfeb.js.map

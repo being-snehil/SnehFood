@@ -390,16 +390,12 @@ const Home = () => {
           <div className="grid grid-cols-4 gap-x-[5%] w-[85%] mx-auto">
             <div>
               <div className="flex items-center" key="footer-details">
-                <img
-                  src={foodVillaLogoWhite}
-                  className="h-16"
-                  key={foodVillaLogoWhite}
-                />
+
                 <h1 className="font-BasisGrotesquePro font-extrabold text-xl leading-10 tracking-tighter text-white">
-                  Food Villa
+                  SnehFood
                 </h1>
               </div>
-              <h1 className="truncate">&nbsp;&nbsp;&nbsp;© 2023 Bundl Technologies Pvt. Ltd</h1>
+              <h1 className="truncate">&nbsp;&nbsp;&nbsp;© 2025 SnehFood</h1>
             </div>
             {footer_data.map((x, index) => {
               return (

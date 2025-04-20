@@ -2467,11 +2467,6 @@ a {
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
-.hover\:text-discord:hover {
-  --tw-text-opacity: 1;
-  color: rgb(114 137 218 / var(--tw-text-opacity));
-}
-
 .hover\:text-github:hover {
   --tw-text-opacity: 1;
   color: rgb(51 51 51 / var(--tw-text-opacity));
@@ -2485,11 +2480,6 @@ a {
 .hover\:text-orange:hover {
   --tw-text-opacity: 1;
   color: rgb(243 115 10 / var(--tw-text-opacity));
-}
-
-.hover\:text-twitter:hover {
-  --tw-text-opacity: 1;
-  color: rgb(0 172 238 / var(--tw-text-opacity));
 }
 
 .hover\:shadow-\[0px_2PX_8PX_\#d4d5d9\]:hover, .hover\:shadow-\[0px_2px_8px_\#d4d5d9\]:hover {
