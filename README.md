@@ -3,13 +3,6 @@
    - A Swiggy inspired food ordering platform</b></h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Key Features](#key-features)
-- [Live Demo](#live-demo)
-
 <!-- PROJECT DESCRIPTION -->
 
 # 🥘 SnehFood
