@@ -1,5 +1,5 @@
 {
-  "name": "foodvilla",
+  "name": "snehfood",
   "version": "1.0.0",
   "description": "This is a ReactJS based learning App",
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "parcel build public/index.html",
     "test": "jest"
   },
-  "author": "Varun",
+  "author": "Snehil",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.11.0",
